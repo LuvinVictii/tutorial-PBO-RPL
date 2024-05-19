@@ -1,0 +1,20 @@
+C:\Users\macintoshhd\source\repos\Space Battle Shooter\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\macintoshhd\source\repos\Space Battle Shooter\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\macintoshhd\source\repos\Space Battle Shooter\obj\Debug\net8.0-windows\Space Battle Shooter_MarkupCompile.cache
+C:\Users\macintoshhd\source\repos\Space Battle Shooter\obj\Debug\net8.0-windows\Space Battle Shooter_MarkupCompile.lref
+C:\Users\macintoshhd\source\repos\Space Battle Shooter\bin\Debug\net8.0-windows\Space Battle Shooter.exe
+C:\Users\macintoshhd\source\repos\Space Battle Shooter\bin\Debug\net8.0-windows\Space Battle Shooter.deps.json
+C:\Users\macintoshhd\source\repos\Space Battle Shooter\bin\Debug\net8.0-windows\Space Battle Shooter.runtimeconfig.json
+C:\Users\macintoshhd\source\repos\Space Battle Shooter\bin\Debug\net8.0-windows\Space Battle Shooter.dll
+C:\Users\macintoshhd\source\repos\Space Battle Shooter\bin\Debug\net8.0-windows\Space Battle Shooter.pdb
+C:\Users\macintoshhd\source\repos\Space Battle Shooter\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\macintoshhd\source\repos\Space Battle Shooter\obj\Debug\net8.0-windows\Space Battle Shooter.g.resources
+C:\Users\macintoshhd\source\repos\Space Battle Shooter\obj\Debug\net8.0-windows\Space Battle Shooter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macintoshhd\source\repos\Space Battle Shooter\obj\Debug\net8.0-windows\Space Battle Shooter.AssemblyInfoInputs.cache
+C:\Users\macintoshhd\source\repos\Space Battle Shooter\obj\Debug\net8.0-windows\Space Battle Shooter.AssemblyInfo.cs
+C:\Users\macintoshhd\source\repos\Space Battle Shooter\obj\Debug\net8.0-windows\Space Battle Shooter.csproj.CoreCompileInputs.cache
+C:\Users\macintoshhd\source\repos\Space Battle Shooter\obj\Debug\net8.0-windows\Space Battle Shooter.dll
+C:\Users\macintoshhd\source\repos\Space Battle Shooter\obj\Debug\net8.0-windows\refint\Space Battle Shooter.dll
+C:\Users\macintoshhd\source\repos\Space Battle Shooter\obj\Debug\net8.0-windows\Space Battle Shooter.pdb
+C:\Users\macintoshhd\source\repos\Space Battle Shooter\obj\Debug\net8.0-windows\Space Battle Shooter.genruntimeconfig.cache
+C:\Users\macintoshhd\source\repos\Space Battle Shooter\obj\Debug\net8.0-windows\ref\Space Battle Shooter.dll
