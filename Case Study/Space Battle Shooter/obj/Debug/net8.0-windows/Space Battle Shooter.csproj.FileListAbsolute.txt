@@ -18,3 +18,24 @@ C:\Users\macintoshhd\source\repos\Space Battle Shooter\obj\Debug\net8.0-windows\
 C:\Users\macintoshhd\source\repos\Space Battle Shooter\obj\Debug\net8.0-windows\Space Battle Shooter.pdb
 C:\Users\macintoshhd\source\repos\Space Battle Shooter\obj\Debug\net8.0-windows\Space Battle Shooter.genruntimeconfig.cache
 C:\Users\macintoshhd\source\repos\Space Battle Shooter\obj\Debug\net8.0-windows\ref\Space Battle Shooter.dll
+D:\Mata Kuliah\Asisten PBO RPL\tutorial-PBO-RPL\Case Study\Space Battle Shooter\bin\Debug\net8.0-windows\Space Battle Shooter.exe
+D:\Mata Kuliah\Asisten PBO RPL\tutorial-PBO-RPL\Case Study\Space Battle Shooter\bin\Debug\net8.0-windows\Space Battle Shooter.deps.json
+D:\Mata Kuliah\Asisten PBO RPL\tutorial-PBO-RPL\Case Study\Space Battle Shooter\bin\Debug\net8.0-windows\Space Battle Shooter.runtimeconfig.json
+D:\Mata Kuliah\Asisten PBO RPL\tutorial-PBO-RPL\Case Study\Space Battle Shooter\bin\Debug\net8.0-windows\Space Battle Shooter.dll
+D:\Mata Kuliah\Asisten PBO RPL\tutorial-PBO-RPL\Case Study\Space Battle Shooter\bin\Debug\net8.0-windows\Space Battle Shooter.pdb
+D:\Mata Kuliah\Asisten PBO RPL\tutorial-PBO-RPL\Case Study\Space Battle Shooter\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Mata Kuliah\Asisten PBO RPL\tutorial-PBO-RPL\Case Study\Space Battle Shooter\obj\Debug\net8.0-windows\App.g.cs
+D:\Mata Kuliah\Asisten PBO RPL\tutorial-PBO-RPL\Case Study\Space Battle Shooter\obj\Debug\net8.0-windows\Space Battle Shooter_MarkupCompile.cache
+D:\Mata Kuliah\Asisten PBO RPL\tutorial-PBO-RPL\Case Study\Space Battle Shooter\obj\Debug\net8.0-windows\Space Battle Shooter_MarkupCompile.lref
+D:\Mata Kuliah\Asisten PBO RPL\tutorial-PBO-RPL\Case Study\Space Battle Shooter\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Mata Kuliah\Asisten PBO RPL\tutorial-PBO-RPL\Case Study\Space Battle Shooter\obj\Debug\net8.0-windows\Space Battle Shooter.g.resources
+D:\Mata Kuliah\Asisten PBO RPL\tutorial-PBO-RPL\Case Study\Space Battle Shooter\obj\Debug\net8.0-windows\Space Battle Shooter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mata Kuliah\Asisten PBO RPL\tutorial-PBO-RPL\Case Study\Space Battle Shooter\obj\Debug\net8.0-windows\Space Battle Shooter.AssemblyInfoInputs.cache
+D:\Mata Kuliah\Asisten PBO RPL\tutorial-PBO-RPL\Case Study\Space Battle Shooter\obj\Debug\net8.0-windows\Space Battle Shooter.AssemblyInfo.cs
+D:\Mata Kuliah\Asisten PBO RPL\tutorial-PBO-RPL\Case Study\Space Battle Shooter\obj\Debug\net8.0-windows\Space Battle Shooter.csproj.CoreCompileInputs.cache
+D:\Mata Kuliah\Asisten PBO RPL\tutorial-PBO-RPL\Case Study\Space Battle Shooter\obj\Debug\net8.0-windows\Space Battle Shooter.sourcelink.json
+D:\Mata Kuliah\Asisten PBO RPL\tutorial-PBO-RPL\Case Study\Space Battle Shooter\obj\Debug\net8.0-windows\Space Battle Shooter.dll
+D:\Mata Kuliah\Asisten PBO RPL\tutorial-PBO-RPL\Case Study\Space Battle Shooter\obj\Debug\net8.0-windows\refint\Space Battle Shooter.dll
+D:\Mata Kuliah\Asisten PBO RPL\tutorial-PBO-RPL\Case Study\Space Battle Shooter\obj\Debug\net8.0-windows\Space Battle Shooter.pdb
+D:\Mata Kuliah\Asisten PBO RPL\tutorial-PBO-RPL\Case Study\Space Battle Shooter\obj\Debug\net8.0-windows\Space Battle Shooter.genruntimeconfig.cache
+D:\Mata Kuliah\Asisten PBO RPL\tutorial-PBO-RPL\Case Study\Space Battle Shooter\obj\Debug\net8.0-windows\ref\Space Battle Shooter.dll
