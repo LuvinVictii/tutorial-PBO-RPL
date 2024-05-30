@@ -16,3 +16,17 @@ For more info, hubungi asdos:
 |------------------------------|-----------------|
 | Muhammad Daffa Harits (Daris)| 081297212255    |
 | Yoel Mountanus Sitorus (Yoel)| 082213989336    |
+
+## Outline Unity
+
+Untuk mahasiswa yang ingin menggunakan unity untuk FP (tidak wajib dan tidak mempengaruhi nilai), berikut outline pembelajaran unity:
+1. Basic unity (Memahami UI unity)
+2. Scripting
+3. Input
+4. Implementing UI
+5. Animasi (Bisa di-skip)
+6. Implementasi kamera
+7. Material
+8. Scene management
+
+Manfaatkan youtube, google, dan AI language model (ChatGPT dkk) untuk pembelajaran
