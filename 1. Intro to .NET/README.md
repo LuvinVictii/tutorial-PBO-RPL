@@ -1,4 +1,4 @@
-## Pengantar ke .NET
+# Pengantar ke .NET
 
 ### Apa itu .NET?
 
